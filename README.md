@@ -20,3 +20,5 @@
 8: Get the Accuracy on Validation Set
 
 9: Check model performance on test data
+
+![Model Performance on Test Data](https://github.com/Nandan26/Task-2/blob/main/Model Performance.jpg?raw=true)
