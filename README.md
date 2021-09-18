@@ -21,4 +21,4 @@
 
 9: Check model performance on test data
 
-![Model Performance on Test Data](https://github.com/Nandan26/Task-2/blob/main/Model Performance.jpg?raw=true)
+![Model Performance on Test Data](https://github.com/Nandan26/Task-2/blob/main/Model%20Performance.JPG.jpg?raw=true)
